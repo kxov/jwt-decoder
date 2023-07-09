@@ -1,0 +1,15 @@
+{
+  "name": "jwt-parser",
+  "version": "1.0.0",
+  "description": "function for jwt token parse",
+  "main": "jwt_decode.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "makx",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
